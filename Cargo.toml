@@ -1,5 +1,5 @@
 [package]
-name = "demo-parse"
+name = "simple_http11_parse_rust"
 version = "0.1.0"
 edition = "2021"
 
